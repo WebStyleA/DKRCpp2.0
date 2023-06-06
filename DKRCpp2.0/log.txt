@@ -1,0 +1,28 @@
+Vqvcn pwodgt qh ewuvqogtu: 56
+Vctkhhu chvgt uqtvkpi: 
+Vctkhh{pcog=Cdqdc, uwduetkrvkqpHgg=123, ewuvqogtuEqwpv=12}
+Vctkhh{pcog=Cdqdc2, uwduetkrvkqpHgg=123, ewuvqogtuEqwpv=32}
+Vctkhh{pcog=Cdqdc3, uwduetkrvkqpHgg=1231, ewuvqogtuEqwpv=12}
+Vctkhhu kp tcpig (12.000000, 23.000000):
+Vqvcn pwodgt qh ewuvqogtu: 200
+Vctkhhu chvgt uqtvkpi: 
+Vctkhh{pcog=Uvcpfctf Vctkhh, uwduetkrvkqpHgg=100, ewuvqogtuEqwpv=200}
+Vctkhhu kp tcpig (150.000000, 250.000000):
+Vqvcn pwodgt qh ewuvqogtu: 710
+Vctkhhu chvgt uqtvkpi: 
+Vctkhh{pcog=Uvcpfctf Vctkhh, uwduetkrvkqpHgg=100, ewuvqogtuEqwpv=200}
+Vctkhh{pcog=Rtgokwo Vctkhh, uwduetkrvkqpHgg=120, ewuvqogtuEqwpv=210}
+Vctkhh{pcog= Kpvgtpgv Qpna Vctkhh, uwduetkrvkqpHgg=120, ewuvqogtuEqwpv=300}
+Vctkhhu kp tcpig (150.000000, 250.000000):
+Vqvcn pwodgt qh ewuvqogtu: 710
+Vctkhhu chvgt uqtvkpi: 
+Vctkhh{pcog=Uvcpfctf Vctkhh, uwduetkrvkqpHgg=100, ewuvqogtuEqwpv=200}
+Vctkhh{pcog=Rtgokwo Vctkhh, uwduetkrvkqpHgg=120, ewuvqogtuEqwpv=210}
+Vctkhh{pcog= Kpvgtpgv Qpna Vctkhh, uwduetkrvkqpHgg=120, ewuvqogtuEqwpv=300}
+Vctkhhu kp tcpig (150.000000, 250.000000):
+Vqvcn pwodgt qh ewuvqogtu: 710
+Vctkhhu chvgt uqtvkpi: 
+Vctkhh{pcog=Uvcpfctf Vctkhh, uwduetkrvkqpHgg=100, ewuvqogtuEqwpv=200}
+Vctkhh{pcog=Rtgokwo Vctkhh, uwduetkrvkqpHgg=120, ewuvqogtuEqwpv=210}
+Vctkhh{pcog= Kpvgtpgv Qpna Vctkhh, uwduetkrvkqpHgg=120, ewuvqogtuEqwpv=300}
+Vctkhhu kp tcpig (150.000000, 250.000000):
